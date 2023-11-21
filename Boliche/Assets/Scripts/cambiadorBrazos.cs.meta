@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bdb3942916d85394d9e84b34f907d910
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - manoIzda: {fileID: 1000013597184258, guid: 057574477c20401448aba7c848873712, type: 3}
+  - mandoIzdo: {instanceID: 0}
+  - manoDcha: {fileID: 1000010184414672, guid: 5dc81ef5cae96304586abbc6e4b5beb8, type: 3}
+  - mandoDcho: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
